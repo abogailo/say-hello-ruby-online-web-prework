@@ -1,7 +1,9 @@
 # Build your say_hello method here
 def say_hello(name)
-  if name = ""
-    puts = "Hello Ruby Programmer!"
-  else phrase = "Hello #{name}!"
+    phrase = "Hello #{name}!"
     puts phrase
 end
+
+def say_hello()
+  puts "Hello Ruby Programmer!"
+ends
